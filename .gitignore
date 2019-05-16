@@ -1,5 +1,6 @@
 
 *.hdf5
+!data/test5MCNNv3Co1.hdf5
 logs
 R.GrowthCurveFit.ipynb
 .vscode
