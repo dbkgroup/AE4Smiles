@@ -1,0 +1,7 @@
+
+*.hdf5
+logs
+R.GrowthCurveFit.ipynb
+.vscode
+.ipynb_checkpoints
+__pycache__
